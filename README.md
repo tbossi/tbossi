@@ -39,6 +39,7 @@ tools:
 ### Recent projects
 
 - [V8 builder](https://github.com/tbossi/v8-builder)
+- [bionic.js](https://github.com/Forge-Srl/bionic-js)
 - [JJBridge Api](https://github.com/Forge-Srl/jjbridge-api)
 - [JJBridge Engine V8](https://github.com/Forge-Srl/jjbridge-engine-v8)
 
