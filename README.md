@@ -14,13 +14,16 @@ I graduated in Computer Science at [Università degli Studi dell'Insubria](https
 languages:
   - Java
   - JavaScript
+  - TypeScript
   - HTML
   - CSS
   - Swift
   - C#
   - Python (kind of)
   - C++ (kind of)
+  - PHP (kind of)
   - Brainfuck
+  # WOW I'm really polyglot!
 
 tools:
   - IntelliJ IDEA
@@ -39,6 +42,7 @@ tools:
 ### Recent projects
 
 - [V8 builder](https://github.com/tbossi/v8-builder)
+- [Gushio](https://github.com/Forge-Srl/gushio)
 - [bionic.js](https://github.com/Forge-Srl/bionic-js)
 - [JJBridge Api](https://github.com/Forge-Srl/jjbridge-api)
 - [JJBridge Engine V8](https://github.com/Forge-Srl/jjbridge-engine-v8)
