@@ -15,7 +15,7 @@ cat programmer.ts
 import {ProgrammingLanguage} from '../languages'
 
 type Programmer = {
-    languages: ProgrammingLanguage[] # TODO: Proficiency in each language is missing
+    languages: ProgrammingLanguage[] // TODO: Proficiency in each language is missing
     frameworks: string[]
     tools: string[]
     operatingSystems: string[]
